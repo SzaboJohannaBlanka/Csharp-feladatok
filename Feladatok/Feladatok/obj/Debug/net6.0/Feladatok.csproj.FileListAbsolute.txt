@@ -1,0 +1,15 @@
+C:\Users\szabo\source\repos\Feladatok\Feladatok\bin\Debug\net6.0\Feladatok.exe
+C:\Users\szabo\source\repos\Feladatok\Feladatok\bin\Debug\net6.0\Feladatok.deps.json
+C:\Users\szabo\source\repos\Feladatok\Feladatok\bin\Debug\net6.0\Feladatok.runtimeconfig.json
+C:\Users\szabo\source\repos\Feladatok\Feladatok\bin\Debug\net6.0\Feladatok.dll
+C:\Users\szabo\source\repos\Feladatok\Feladatok\bin\Debug\net6.0\Feladatok.pdb
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.csproj.AssemblyReference.cache
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.AssemblyInfoInputs.cache
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.AssemblyInfo.cs
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.csproj.CoreCompileInputs.cache
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.dll
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\refint\Feladatok.dll
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.pdb
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\Feladatok.genruntimeconfig.cache
+C:\Users\szabo\source\repos\Feladatok\Feladatok\obj\Debug\net6.0\ref\Feladatok.dll
